@@ -4,8 +4,6 @@ from tkinter import *
 from backward_chaining import backward_chaining
 
 def main():
-  #backward_chaining("pola pendampingan")
-
   # Window
   window = tk.Tk()
   window.title("Sistem Pakar")
